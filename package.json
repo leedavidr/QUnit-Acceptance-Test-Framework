@@ -2,9 +2,7 @@
   "name": "QUnit-Acceptance-Test-Framework",
   "version": "0.0.1",
   "dependencies": {
-    "cheerio": "0.9.x",
     "grunt": "0.3.x",
-    "grunt-contrib-requirejs": "0.3.x",
     "temporary": "~0.0.4"
   }
 }
