@@ -1,8 +1,7 @@
 define([
-	'jQuery',
-	'suite1'
+	'jQuery'
 	
-], function(jQuery, suite1) {
+], function(jQuery) {
 
 	var $$ = jQuery.noConflict(true);
 
